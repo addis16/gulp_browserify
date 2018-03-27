@@ -1,0 +1,11 @@
+{
+  "name": "gulp_browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Jacob Addis",
+  "license": "MIT"
+}
